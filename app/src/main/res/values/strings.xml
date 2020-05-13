@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Exercise 3</string>
+    <string name="url_data_source">https://www.serverbpw.com/cm/2020-2/</string>
+    <string name="url_product_item">products.php</string>
+    <string name="url_product_details">product_detail.php?id=</string>
+    <string name="id_json">id</string>
+    <string name="name_json">name</string>
+    <string name="price_json">price</string>
+    <string name="provider_json">provider</string>
+    <string name="delivery_json">delivery</string>
+    <string name="image_url_json">thumbnail_url</string>
+    <string name="name_detail_json">name</string>
+    <string name="image_detail_json">imag_url</string>
+    <string name="desc_detail_json">desc</string>
+    <string name="description_title">Description</string>
+    <string name="currency_sign">$</string>
+    <string name="delivery">Shipping:</string>
+</resources>

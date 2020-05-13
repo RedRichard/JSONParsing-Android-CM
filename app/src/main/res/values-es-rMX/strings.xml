@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ejercicio 3</string>
+    <string name="description_title">Descripción</string>
+    <string name="currency_sign">$</string>
+    <string name="delivery">"Envío: "</string>
+</resources>
